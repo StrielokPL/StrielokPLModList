@@ -1,8 +1,6 @@
 StrelokPL
 https://github.com/StrielokPL/Ursus16541954
-# Link informacyjny (poza listą obsługiwaną przez updater): https://www.youtube.com/
-
 # Repozytoria editów — do aktywowania po dodaniu instalacji paczek editu w updaterze.
 # To paczki zmienionych plików, a nie kompletne mody do instalacji.
-# https://github.com/StrielokPL/Edit330Miziuu
-# https://github.com/StrielokPL/Edit355360Miziuu
+https://github.com/StrielokPL/Edit330Miziuu
+https://github.com/StrielokPL/Edit355360Miziuu
