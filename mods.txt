@@ -1,5 +1,5 @@
 StrelokPL
-https://github.com/StrielokPL/Ursus16541954
+# https://github.com/StrielokPL/Ursus16541954
 # Repozytoria editów — wymagany updater 0.0.1a15 lub nowszy.
 # To paczki zmienionych plików, a nie kompletne mody do instalacji.
 https://github.com/StrielokPL/Edit330Miziuu
